@@ -1,5 +1,5 @@
 {
-    "name" : "constrain-proportions",
+    "name" : "Constrain Proportions",
     "identifier" : "com.github.shanenz.constrain-proportions",
     "version" : "1.0.0",
     "description" : "Creates a shortcut key for the constrain-proportions button in the inspector. ",
