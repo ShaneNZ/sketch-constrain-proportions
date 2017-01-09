@@ -1,0 +1,17 @@
+{
+    "name" : "constrain-proportions",
+    "identifier" : "com.github.shanenz.constrain-proportions",
+    "version" : "1.0.0",
+    "description" : "Creates a shortcut key for the constrain-proportions button in the inspector. ",
+    "authorEmail" : "ithacanz@gmail.com",
+    "author" : "Shane Goodwin",
+    "commands" : [
+    {
+      "script" : "constrain-proportions.js",
+      "handler" : "onRun",
+      "shortcut" : "ctrl shift cmd L",
+      "name" : "Constrain Proportions",
+      "identifier" : "constrain-proportions"
+    }
+  ]
+}
