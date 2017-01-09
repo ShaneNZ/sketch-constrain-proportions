@@ -11,7 +11,7 @@
       "handler" : "onRun",
       "shortcut" : "ctrl shift cmd L",
       "name" : "Constrain Proportions",
-      "identifier" : "constrain-proportions"
+      "identifier" : "Constrain Proportions"
     }
   ]
 }
